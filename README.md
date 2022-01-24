@@ -1,4 +1,4 @@
-# Model Free Training of End-to-End Communication_Systems
+# Model Free Training of End-to-End Communication Systems
 Implementation of the paper **"Model Free Training of End-to-End Communication Systems"** - Fayçal Ait Aoudia, Jakob Hoydis. 
 
 #### References
